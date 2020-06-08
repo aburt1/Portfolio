@@ -5,3 +5,4 @@
   <a href="https://www.linkedin.com/in/a-burt/">LinkedIn</a>
   <br><br>
  
+<i>Content management system project creating simple and user-friendly DIY gallery and website for photographers. Created database free for simplicity.<i>
